@@ -7,11 +7,11 @@
 <!-- [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project}) -->
 <!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964807665&text=Olá!)](https://api.whatsapp.com/send?phone=5511964807665&text=Olá!) -->
 
-## Hi there! 👋
+## Hello! 👋
 
 - 🌎 I live in Jundiaí-SP.
 - 📚 Graduated in Computer Science
-- 💻 Fullstack Developer
+- 💻 Full Stack Developer
 - 🚀 Javascript, Typescript, ReactJS, React Native, NodeJS, SQL, HTML, CSS, GIT
   <!-- - 🔭 I’m currently working on ... -->
   <!-- - 🌱 I’m currently learning ... -->
