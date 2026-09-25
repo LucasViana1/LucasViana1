@@ -1,23 +1,16 @@
 # Lucas Viana Cunha 👨‍💻
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasViana1)](https://github.com/LucasViana1)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-viana-cunha-/)](https://www.linkedin.com/in/lucas-viana-cunha-/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasviana112@gmail.com)](mailto:lucasviana112@gmail.com)
-
-<!-- [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project}) -->
-<!-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964807665&text=Olá!)](https://api.whatsapp.com/send?phone=5511964807665&text=Olá!) -->
-
+ 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6f42c1?style=flat-square&logo=googlechrome&logoColor=white)](https://www.lucasvianacunha.com.br/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-viana-cunha-/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucasviana112@gmail.com)
+ 
 ## Hello! 👋
-
-- 🌎 I live in Jundiaí-SP.
-- 📚 Graduated in Computer Science
-- 💻 Full Stack Developer
-- 🚀 Javascript, Typescript, ReactJS, React Native, NodeJS, SQL, HTML, CSS, GIT
-  <!-- - 🔭 I’m currently working on ... -->
-  <!-- - 🌱 I’m currently learning ... -->
-  <!-- - 👯 I’m looking to collaborate on ... -->
-  <!-- - 🤔 I’m looking for help with ... -->
-  <!-- - 💬 Ask me about ... -->
-  <!-- - 📫 How to reach me: ... -->
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡ Fun fact: ... -->
+ 
+Software Engineer, frontend-focused. Frontend is my specialty, but I enjoy owning features end-to-end, from the interface to production.
+ 
+- 🌎 Based in Jundiaí-SP, Brazil
+- 📚 Computer Science graduate
+- 💻 Building Magalu's checkout at Luizalabs
+- 🚀 TypeScript, React, Next.js, Node.js, JavaScript, SQL, HTML, CSS, Git
+- 🌱 Currently learning: AI/LLM integration, backend and cloud
+- 💬 Ask me about: React, Next.js and building high-conversion checkout flows
